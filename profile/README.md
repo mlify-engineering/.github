@@ -3,7 +3,7 @@
 Welcome to MLify Inc.
 
 
-![Alt text](../img/MLifyLogo.png)
+![Alt text](../../img/MLifyLogo.png)
 
 <!--
 
