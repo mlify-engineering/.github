@@ -3,7 +3,7 @@
 Welcome to MLify Inc.
 
 
-![Alt text](https://github.com/mlify-engineering/.github/blob/main/img/MLify Logo.png)
+![Alt text](https://github.com/mlify-engineering/.github/blob/main/img/MLifyLogo.png)
 <!--
 
 **Here are some ideas to get you started:**
