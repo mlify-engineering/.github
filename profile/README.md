@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there
+
+![Alt text](../img/MLify Logo.png)
+
+Welcome to MLify Inc.
 
 <!--
 
